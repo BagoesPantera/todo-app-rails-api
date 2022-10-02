@@ -5,4 +5,5 @@ After cloning from github, setup .env file then execute
 ```sh
 bundle install
 rails db:migrate
+rails s
 ```
